@@ -9,7 +9,7 @@ function CarCard({ car }) {
       overflow-hidden
     ">
 
-      {/* Car Image */}
+    
       <img
         src={car.image}
         alt={car.name}
